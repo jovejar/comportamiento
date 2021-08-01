@@ -5,7 +5,7 @@ DROP DATABASE clientes;
 CREATE DATABASE clientes;
 
 --Conectarse a la DB clientes.
-\c clientes;
+\c clientes
 
 --1. Cargar el respaldo de la base de datos unidad2.sql.
 --psql -U ramiro clientes<unidad2.sql
